@@ -8,7 +8,7 @@ font-family: "Raleway"
 }
 
 .intro {
-  background: url(../img/canada.jpg) no-repeat bottom center scroll;
-  background-color: white;
+  background: url(../img/introbackground.jpg) no-repeat bottom center scroll;
+  background-color: black;
   background-size: cover;
 }
