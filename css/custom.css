@@ -1,3 +1,6 @@
+body {
+  background-color: white
+}
 h1,
 h2,
 h3,
@@ -18,5 +21,5 @@ font-family: "Raleway"
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 .download-section {
-  background-color: white;
+  background-color: black;
 }
