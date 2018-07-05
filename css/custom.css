@@ -22,6 +22,7 @@ font-family: "Raleway"
 }
 .download-section {
   background-color: black;
+  background: url(../img/weddingdetails.jpg) no-repeat center center scroll;
 }
 .content-section {
   padding-top: 50px;
