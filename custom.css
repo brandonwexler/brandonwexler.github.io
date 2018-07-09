@@ -1,0 +1,33 @@
+body {
+  background-color: white
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+font-family: "Raleway"
+}
+
+.small-text {
+font-size: 12px
+}
+
+.intro {
+  background: url(../img/introbackground.jpg) no-repeat bottom center scroll;
+  background-color: black;
+  background-size: cover;
+}
+.navbar-custom.top-nav-collapse {
+  padding: 0;
+  background: #7ec5b7;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.download-section {
+  background-color: black;
+  background: url(../img/weddingdetails.jpg) no-repeat center center scroll;
+}
+.content-section {
+  padding-top: 50px;
+}
