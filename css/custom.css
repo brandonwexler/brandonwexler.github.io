@@ -10,6 +10,10 @@ h6 {
 font-family: "Raleway"
 }
 
+.small-text {
+font-size: 1em
+}
+
 .intro {
   background: url(../img/introbackground.jpg) no-repeat bottom center scroll;
   background-color: black;
