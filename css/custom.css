@@ -10,6 +10,10 @@ h6 {
 font-family: "Raleway"
 }
 
+p {
+  font-size: 12px;
+}
+
 p-small {
 font-size: 15px;
 }
