@@ -32,6 +32,10 @@ font-size: 15px;
   background-color: black;
   background: url(../img/weddingdetails.jpg) no-repeat center center scroll;
 }
+.rsvp-section {
+  background-color: black;
+  background: url(../img/rsvp.jpg) no-repeat center center scroll;
+}
 .content-section {
   padding-top: 50px;
 }
