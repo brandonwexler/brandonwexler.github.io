@@ -36,6 +36,10 @@ font-size: 15px;
   background-color: black;
   background: url(../img/rsvp.jpg) no-repeat center center scroll;
 }
+.thingstodo-section {
+  background-color: black;
+  background: url(../img/thingstodo.jpg) no-repeat center center scroll;
+}
 .content-section {
   padding-top: 50px;
   padding-bottom: 50px;
