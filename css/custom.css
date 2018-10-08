@@ -24,7 +24,7 @@ font-size: 15px;
   background-size: cover;
 }
 
-@media (min-width: 3000px) {
+@media (max-width: 3000px) {
 .navbar-custom.top-nav-collapse {
   padding: 0;
   background: #42DCA3;
