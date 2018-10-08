@@ -101,7 +101,7 @@ a:focus {
 .navbar-custom .nav li.active a:hover {
   color: white;
 }
-@media (max-width: 2225px) {
+@media (min-width: 3000px) {
   .navbar-custom {
     padding: 20px 0;
     border-bottom: none;
@@ -111,6 +111,9 @@ a:focus {
     -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
     transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
   }
+}
+
+@media (min-width: 768px) {
   .navbar-custom.top-nav-collapse {
     padding: 0;
     background: black;
