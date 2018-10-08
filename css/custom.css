@@ -24,13 +24,12 @@ font-size: 15px;
   background-size: cover;
 }
 
-@media (max-width: 3000px) {
 .navbar-custom.top-nav-collapse {
   padding: 0;
   background: #42DCA3;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
-}
+
 .wedding-section {
   background-color: black;
   background: url(../img/weddingdetails.jpg) no-repeat center center scroll;
