@@ -23,10 +23,13 @@ font-size: 15px;
   background-color: black;
   background-size: cover;
 }
+
+@media (min-width: 3000px) {
 .navbar-custom.top-nav-collapse {
   padding: 0;
   background: #42DCA3;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
 }
 .wedding-section {
   background-color: black;
